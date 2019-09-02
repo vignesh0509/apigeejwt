@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<APIProxy revision="2" name="loginproxy">
+    <Basepaths>/loginproxy</Basepaths>
+    <ConfigurationVersion majorVersion="4" minorVersion="0"/>
+    <CreatedAt>1567450089159</CreatedAt>
+    <CreatedBy>vignesh5989@gmail.com</CreatedBy>
+    <Description></Description>
+    <DisplayName>loginproxy</DisplayName>
+    <LastModifiedAt>1567453217450</LastModifiedAt>
+    <LastModifiedBy>vignesh5989@gmail.com</LastModifiedBy>
+    <ManifestVersion>SHA-512:d0113edbbc0877d5b7bfa49851d26189d4fc895b393a9dbc4109b69d5cc39520b253055423458911abea98588034973a59d3009a507c0470c4c8bf0054be94d1</ManifestVersion>
+    <Policies>
+        <Policy>Assign-Message-1</Policy>
+        <Policy>Assign-Message-2</Policy>
+        <Policy>Generate-JWT-1</Policy>
+    </Policies>
+    <ProxyEndpoints>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </ProxyEndpoints>
+    <Resources/>
+    <Spec></Spec>
+    <TargetServers/>
+    <TargetEndpoints>
+        <TargetEndpoint>default</TargetEndpoint>
+    </TargetEndpoints>
+</APIProxy>

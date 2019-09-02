@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Manifest name="manifest">
+    <Policies>
+        <VersionInfo resourceName="Assign-Message-1" version="SHA-512:559c51763e008a05090bb22fa382847535e2adefd649557080925274fed17c7920002f5d361ca42c05778143e31a90e80adede4b53cd05d5b2ff10cf7dce20a3"/>
+        <VersionInfo resourceName="Verify-JWT-1" version="SHA-512:3c2cc19dd8331fa14eb0a655ff726eb7ac8b5c56aa6b94db1898e74cb0bd080c2c25345f23a2ddbd535d43183d0ec77133c03a2233b08feb2f71a5a373872f97"/>
+    </Policies>
+    <ProxyEndpoints>
+        <VersionInfo resourceName="default" version="SHA-512:15bc4f80f2f83535a33b4a618d4abc0ea736b70f820fc12feb95a5b668e3228ad34274e3b7951c7660caaa0855bc6a2111ccdb215ea1364d5ba391cffdbc574d"/>
+    </ProxyEndpoints>
+    <Resources/>
+    <SharedFlows/>
+    <TargetEndpoints>
+        <VersionInfo resourceName="default" version="SHA-512:56d23a626437e79fac741635eee10b3a70fd8970545f136034cfb1731478556fd57ea539eafb34121837bee06635d304e9d931ab1331c2bdd9c517a75b1f7eb7"/>
+    </TargetEndpoints>
+</Manifest>

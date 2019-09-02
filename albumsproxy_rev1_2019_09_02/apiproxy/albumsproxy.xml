@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<APIProxy revision="1" name="albumsproxy">
+    <Basepaths>/albumsproxy</Basepaths>
+    <ConfigurationVersion majorVersion="4" minorVersion="0"/>
+    <CreatedAt>1567443430515</CreatedAt>
+    <CreatedBy>vignesh5989@gmail.com</CreatedBy>
+    <Description></Description>
+    <DisplayName>albumsproxy</DisplayName>
+    <LastModifiedAt>1567452993949</LastModifiedAt>
+    <LastModifiedBy>vignesh5989@gmail.com</LastModifiedBy>
+    <ManifestVersion>SHA-512:f115d30b3ceac26bfce371668d0649314124c79540962f6eb7ccd221f8bf8de8ca309579b8636686d9922ff40928956039de7714843f69437466f5805bb8e160</ManifestVersion>
+    <Policies>
+        <Policy>Assign-Message-1</Policy>
+        <Policy>Verify-JWT-1</Policy>
+    </Policies>
+    <ProxyEndpoints>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </ProxyEndpoints>
+    <Resources/>
+    <Spec></Spec>
+    <TargetServers/>
+    <TargetEndpoints>
+        <TargetEndpoint>default</TargetEndpoint>
+    </TargetEndpoints>
+</APIProxy>
